@@ -1,1 +1,2 @@
 user1 text file
+Made a change and will merge into master, to check if user 2 doing a push will prompt that user1.txt has changed.
